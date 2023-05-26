@@ -34,7 +34,7 @@ header{
 #titulo{
     display: flex;
     margin: auto;
-    margin-right: 150px;
+    margin-right: 50px;
     margin-left: 20px;
  text-shadow: 0px 10px 10px gray;
  
@@ -85,6 +85,7 @@ header{
       100% {
         transform: translate(-50%, 50%) rotate(360deg);
       }
+      
   }
   
   
